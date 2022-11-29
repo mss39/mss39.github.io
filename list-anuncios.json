@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "titulo": "Chave de carro",
+    "categoria": "Chaves",
+    "descricao": "Chave do carro ford KA Fiesta 2008",
+    "status": "Perdido",
+    "endereco": "Rua sem saída ",
+    "data_criacao": "22-05-2022",
+    "usuario": "Marcos",
+    "recompensa": 100.0
+  },
+  {
+    "id": 2,
+    "titulo": "Chave de carro",
+    "categoria": "Chaves",
+    "descricao": "Chave do carro ford KA Fiesta 2008",
+    "status": "Perdido",
+    "endereco": "Rua sem saída ",
+    "data_criacao": "22-05-2022",
+    "usuario": "Marcos",
+    "recompensa": 100.0
+  },
+  {
+    "id": 3,
+    "titulo": "Chave de carro",
+    "categoria": "Chaves",
+    "descricao": "Chave do carro ford KA Fiesta 2008",
+    "status": "Perdido",
+    "endereco": "Rua sem saída ",
+    "data_criacao": "22-05-2022",
+    "usuario": "Marcos",
+    "recompensa": 100.0
+  },
+  {
+    "id": 4,
+    "titulo": "Chave de carro",
+    "categoria": "Chaves",
+    "descricao": "Chave do carro ford KA Fiesta 2008",
+    "status": "Perdido",
+    "endereco": "Rua sem saída ",
+    "data_criacao": "22-05-2022",
+    "usuario": "Marcos",
+    "recompensa": 100.0
+  }
+]
